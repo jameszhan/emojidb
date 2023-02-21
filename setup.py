@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="emojidb",
-    version="0.0.2",
+    version="0.0.3",
     author="James Zhan",
     author_email="zhiqiangzhan@gmail.com",
     description="Emoji DB package",
