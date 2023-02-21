@@ -1,1 +1,1 @@
-# emojidb
+# emoji db
